@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/YMWAB_CHANGELOG.html"
+			"changelog": "https://raw.githubusercontent.com/Gean48/YMBusiness/main/YMWAB_CHANGELOG.html"
 		}
 
 	]
