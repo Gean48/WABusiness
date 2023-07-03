@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/Gean48/WhatsAppPrivacy/main/WACHANGELOG.html"
+			"changelog": "https://raw.githubusercontent.com/Gean48/WABusiness/main/WAWAB_CHANGELOG.html"
 		}
 	]
 }
