@@ -1,6 +1,6 @@
 {
-	"version": "1.0",
-	"download": "https://ymmods.net/",
+	"version": "1.1",
+	"download": "https:",
 	"update": [
 		{
 			"languaje": "en",
