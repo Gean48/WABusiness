@@ -1,5 +1,5 @@
 {
- "version":"1.22",
+ "version":"1.0",
  "title":"Atualização disponível v1.21 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
  "download":"https://bit.ly/41XE38S"
